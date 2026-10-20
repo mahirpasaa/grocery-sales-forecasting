@@ -61,7 +61,7 @@ cutoff using only data available on that date.
 ## Run it yourself
 
 ```bash
-git clone https://github.com/<your-username>/grocery-sales-forecasting.git
+git clone https://github.com/mahirpasaa/grocery-sales-forecasting.git
 cd grocery-sales-forecasting
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
